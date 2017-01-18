@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<nav>
+	<menu text="首页" href="/index.html" group="index">
+	</menu>
+	<menu text="关于我们" href="/pages/gywm/gsjj.html" group="gywm">
+		<sub-menu text="公司简介" href="/pages/gywm/gsjj.html">
+		</sub-menu>
+		<sub-menu text="企业文化" href="/pages/gywm/qywh.html">
+		</sub-menu>
+		<sub-menu text="荣誉资质" href="/pages/gywm/ryzz.html">
+		</sub-menu>
+		<sub-menu text="QHSE体系" href="/pages/gywm/zlgltx.html">
+		</sub-menu>
+		<sub-menu text="组织机构" href="/pages/gywm/zzjg.html">
+		</sub-menu>
+		<sub-menu text="社会责任" href="/pages/gywm/shzr.html">
+		</sub-menu>
+	</menu>
+	<menu text="技术服务" href="/pages/jsfw/ywjs.html" group="jsfw">
+		<sub-menu text="业务介绍" href="/pages/jsfw/ywjs.html">
+			<item href="/pages/jsfw/ywjs/hsyqt.html" isshowontop="1">海上油气田设计安装</item>
+			<item href="/pages/jsfw/ywjs/xny.html" isshowontop="1">新能源设计安装</item>
+			<item href="/pages/jsfw/ywjs/ldgc.html" isshowontop="1">陆地工程</item>
+		</sub-menu>
+		<sub-menu text="设计能力" href="/pages/jsfw/sjnl.html">
+			<item href="/pages/jsfw/sjnl/xxsj.html" isshowontop="1">详细设计</item>
+			<item href="/pages/jsfw/sjnl/jgsj.html" isshowontop="1">加工设计</item>
+			<item href="/pages/jsfw/sjnl/xmgl.html" isshowontop="1">项目管理</item>
+			<item href="/pages/jsfw/sjnl/szhyt.html" isshowontop="1">数字化油田</item>
+			<item href="/pages/jsfw/sjnl/swdm.html" isshowontop="1">三维动漫</item>
+			<item href="/pages/jsfw/sjnl/azsj.html" isshowontop="1">安装设计</item>
+		</sub-menu>
+	</menu>
+	<menu text="公司业绩" href="/pages/gsyj/EP23-1.html" group="gsyj">
+		<sub-menu text="恩平23-1油田群" href="/pages/gsyj/EP23-1.html">
+		</sub-menu>
+		<sub-menu text="蓬莱19-9油田" href="/pages/gsyj/PL19-9.html">
+		</sub-menu>
+		<sub-menu text="埕北油田" href="/pages/gsyj/cbyt.html">
+		</sub-menu>
+		<sub-menu text="渤中34-9油田" href="/pages/gsyj/BZ34-9.html">
+		</sub-menu>
+	</menu>
+	<menu text="可持续发展" href="/pages/kcxfz/zl.html" group="kcxfz">
+		<sub-menu text="国家专利" href="/pages/kcxfz/zl.html">
+		</sub-menu>
+		<sub-menu text="科研项目" href="/pages/kcxfz/kyqrgdjcjg.html">
+			<item href="/pages/kcxfz/kyqrgdjcjg.html">可移迁人工岛基础结构</item>
+			<item href="/pages/kcxfz/kydptyyzdspsszq.html">可移动平台液压自动水平伸缩栈桥</item>
+		</sub-menu>
+	</menu>
+	<menu text="员工天地" href="/pages/ygtd/2015yxyg.html" group="ygtd">
+		<sub-menu text="2015年优秀员工" href="/pages/ygtd/2015yxyg.html">
+		</sub-menu>
+		<sub-menu text="2015年春节联欢" href="/pages/ygtd/2015cj.html">
+		</sub-menu>
+		<sub-menu text="2014年度夏令营" href="/pages/ygtd/2014xly.html">
+		</sub-menu>
+	</menu>
+	<menu text="招贤纳士" href="/pages/zxns/zxns.html" group="zxns">
+		<sub-menu text="结构工程师" href="/pages/zxns/zp/jiegou.html">结构工程师</sub-menu>
+		<sub-menu text="仪表工程师" href="/pages/zxns/zp/yibiao.html">仪表工程师</sub-menu>
+		<sub-menu text="配管工程师" href="/pages/zxns/zp/peiguan.html">配管工程师</sub-menu>
+		<sub-menu text="浮体工程师" href="/pages/zxns/zp/futi.html">浮体工程师</sub-menu>
+		<sub-menu text="3D-MAX工程师" href="/pages/zxns/zp/3dmax.html">3D-MAX工程师</sub-menu>
+		<sub-menu text="电气工程师" href="/pages/zxns/zp/dianqi.html">电气工程师</sub-menu>
+		<sub-menu text="绘图员" href="/pages/zxns/zp/huituyuan.html">绘图员</sub-menu>
+		<sub-menu text="急！软件工程师" href="/pages/zxns/zp/ruanjian.html">急！软件工程师</sub-menu>
+		<sub-menu text="高级软件工程师" href="/pages/zxns/zp/gaojiruanjian.html">高级软件工程师</sub-menu>
+	</menu>
+	<menu text="联系我们" href="/pages/gywm/lxwm.html" group="lxwm">
+	</menu>
+	<menu text="数据中心演示" href="/DataCenterDEMO/main.html" target="_blank" group="sjzx">
+	</menu>
+</nav>
