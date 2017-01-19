@@ -71,13 +71,6 @@ input[type="button"] {
     margin: 0 auto;
 }
 
-#bestCarsCarousel img {
-    width: 956px;
-    height: 472px;
-
-    border: 2px solid #FFF;
-}
-
 div.navImage img {
     width: 956px;
     height: 236px;

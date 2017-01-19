@@ -4,21 +4,15 @@
     <meta charset="utf-8" />
     <title>海德天润</title>
     <script src="/scripts/jquery-2.1.1.min.js"></script>
+    <script src="/scripts/bootstrap.min.js"></script>
     <script src="/scripts/app.js"></script>
-    <script src="/scripts/jquery.sgallery.js"></script>
-    <script src="/scripts/jquery.jcMarquee.js"></script>
     <link href="/styles/main.css" rel="stylesheet" type="text/css" />
     <link href="/styles/nav.css" rel="stylesheet" type="text/css" />
+    <link href="/styles/bootstrap.css" rel="stylesheet" type="text/css" />
     <style>
-        #Marquee_x {
-            height: 265px;
-        }
-        #Marquee_x ul li div {
-            width: 400px;
-        }
-        #Marquee_x ul li div img {
-            width: 400px;
-            height: 265px;
+        #bestCarsCarousel {
+            margin: 0 auto;
+            width: 600px;
         }
     </style>
 <script>
@@ -40,26 +34,28 @@ var _hmt = _hmt || [];
             <div id="right" style="min-height: 500px;">
                 <h3>2015优秀员工</h3>
                 <div class="section">
-                    <div id="mrq">
-                        <div id="Marquee_x">
-                            <ul>
-                                <li>
-                                    <div>
-                                        <img src="2015yxyg/01.jpg" />
-                                    </div>
-                                    <div>
-                                        <img src="2015yxyg/02.jpg" />
-                                    </div>
-                                    <div>
-                                        <img src="2015yxyg/03.jpg" />
-                                    </div>
-                                </li>
-                            </ul>
+                    <div id="bestCarsCarousel" class="carousel slide" data-ride="carousel">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#bestCarsCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#bestCarsCarousel" data-slide-to="1"></li>
+                            <li data-target="#bestCarsCarousel" data-slide-to="2"></li>
+                        </ol>
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <img src="2015yxyg/01.jpg">
+                            </div>
+                            <div class="item">
+                                <img src="2015yxyg/02.jpg">
+                            </div>
+                            <div class="item">
+                                <img src="2015yxyg/03.jpg">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <br class="spacer" />
         </div>
         <br class="spacer" />
     </div>
